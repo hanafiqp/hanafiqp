@@ -5,7 +5,7 @@
 - 📫 How to reach me: hanafiqpraditia.tech
 
 <img width=50%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanafiqp&langs_count=10&layout=wide&theme=rose_pine" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanafiqp&langs_count=10&layout=compact&theme=rose_pine" />
 
 <img width=100%
     src="https://github-profile-trophy.vercel.app/?username=hanafiqp&column=7&margin-h=15&theme=juicyfresh">
