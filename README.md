@@ -7,6 +7,6 @@
 <img width=50%
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanafiqp&langs_count=10&layout=compact&theme=rose_pine" />
 
-<img width=50%
-    src="https://github-profile-trophy.vercel.app/?username=hanafiqp&column=4&margin-h=15&theme=juicyfresh">
+<img width=100%
+    src="https://github-profile-trophy.vercel.app/?username=hanafiqp&column=12&margin-h=15&theme=juicyfresh">
 
